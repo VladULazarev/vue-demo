@@ -15,6 +15,12 @@ and then `read, edit and delete` all existing messages on `Show Messages` page.
 
 The file `vue-actions.php` can be found in the root folder.
 
+You can check out the app online here:
+
+~~~
+https://yii-demo.getyoursite.info/
+~~~
+
 -------------------------
 
 
@@ -36,3 +42,9 @@ The file `vue-actions.php` can be found in the root folder.
 Файл `vue-actions.php`, небходимый для работы с базой данных,
 находиться в корневой папке приложения.
 
+
+Протестировать приложение online можно здесь:
+
+~~~
+https://yii-demo.getyoursite.info/
+~~~
