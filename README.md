@@ -18,7 +18,7 @@ The file `vue-actions.php` can be found in the root folder.
 You can check out the app online here:
 
 ~~~
-https://yii-demo.getyoursite.info/
+https://vue-demo.getyoursite.info/
 ~~~
 
 -------------------------
@@ -46,5 +46,5 @@ https://yii-demo.getyoursite.info/
 Протестировать приложение online можно здесь:
 
 ~~~
-https://yii-demo.getyoursite.info/
+https://vue-demo.getyoursite.info/
 ~~~
